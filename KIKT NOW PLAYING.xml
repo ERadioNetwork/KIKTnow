@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nowPlaying xmlns:mlv="urn:MyriadNowPlayingSchema50.xml">
+  <logItem type="empty" index="0">
+    <sequenceIndex>0</sequenceIndex>
+    <itemType>empty</itemType>
+    <actualLength>00:00:00</actualLength>
+    <referenceLength>00:00:00</referenceLength>
+    <title>
+      <title />
+      <id>0</id>
+    </title>
+    <artists />
+    <itemFlags>0</itemFlags>
+    <itemStatus>Empty</itemStatus>
+    <failureCode>None</failureCode>
+    <volumePoints />
+    <chainType>Stop</chainType>
+  </logItem>
+  <logItem type="song" index="1">
+    <reference>1892949</reference>
+    <baseDateTime>2025-03-21T02:00:00Z</baseDateTime>
+    <sequenceBase>2025032102</sequenceBase>
+    <sequenceIndex>1073741832</sequenceIndex>
+    <itemType>song</itemType>
+    <estimatedStart>2025-03-21T02:26:37.4841591Z</estimatedStart>
+    <estimatedEnd>2025-03-21T02:28:55.1871591Z</estimatedEnd>
+    <actualLength>00:02:17.7030000</actualLength>
+    <referenceLength>00:02:17.7430000</referenceLength>
+    <title>
+      <title>Hole in The Bottle</title>
+      <id>4110</id>
+    </title>
+    <artists>
+      <artist index="1">
+        <name>Kelsea Ballerini</name>
+        <id>126</id>
+      </artist>
+    </artists>
+    <informationString index="2">DELILAH</informationString>
+    <information index="2">21</information>
+    <information index="6">-1</information>
+    <itemFlags>0</itemFlags>
+    <itemStatus>Good</itemStatus>
+    <failureCode>None</failureCode>
+    <mediaId>12838</mediaId>
+    <mediaItem contentType="AudioFile" type="song">
+      <mediaId>12838</mediaId>
+      <guid>0f87a82f-7a15-4235-9d79-7ce3796f29ef</guid>
+      <externalReference>807394</externalReference>
+      <mediaLocation>MYR12838.wav</mediaLocation>
+      <title>
+        <title>Hole in The Bottle</title>
+        <id>4110</id>
+      </title>
+      <artists>
+        <artist index="1">
+          <name>Kelsea Ballerini</name>
+          <id>126</id>
+        </artist>
+      </artists>
+      <categoryName>DELILAH</categoryName>
+      <itemAttributes>
+        <itemAttribute stationId="0" type="Category" index="1">
+          <number>21</number>
+          <level>0</level>
+        </itemAttribute>
+      </itemAttributes>
+      <timings>
+        <mediaLength>
+          <start>00:00:00.0400000</start>
+          <end>00:02:21.3100000</end>
+        </mediaLength>
+        <intro>
+          <start>00:00:00.0400000</start>
+          <end>00:00:07.9410000</end>
+        </intro>
+        <extro>
+          <start>00:02:17.7430000</start>
+        </extro>
+        <referenceLength>00:00:00</referenceLength>
+        <totalLength>00:02:21.3100000</totalLength>
+      </timings>
+      <copyright>
+        <startOffset>00:00:00</startOffset>
+      </copyright>
+      <created>2021-03-10T16:50:09.407Z</created>
+      <lastModified>2024-09-10T15:09:00.47Z</lastModified>
+      <images>
+        <image>
+          <location>MYR12838.jpg</location>
+          <smallThumbnailLocation>MYR12838-Small.png</smallThumbnailLocation>
+          <mediumThumbnailLocation>MYR12838-Medium.png</mediumThumbnailLocation>
+        </image>
+      </images>
+    </mediaItem>
+    <volumePoints />
+    <chainType>Auto</chainType>
+    <created>2025-03-13T17:17:35.213Z</created>
+    <lastModified>2025-03-21T02:19:43.557Z</lastModified>
+    <playingState>Playing</playingState>
+  </logItem>
+</nowPlaying>
